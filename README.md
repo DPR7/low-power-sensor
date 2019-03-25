@@ -19,8 +19,11 @@ Low power node  - ATMega328p standalone based environment sensor
   - LowPower
 
   Based on the work of:
+
   Nick Gammon : http://www.gammon.com.au/power
+
   Rocketscream: https://github.com/rocketscream/Low-Power
+
   Tinkerit: https://code.google.com/archive/p/tinkerit/wikis/SecretVoltmeter.wiki
 
   Documentation:
